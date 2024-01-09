@@ -1,0 +1,308 @@
+<resources>
+    <string name="app_name">ProjectSegundoParcialApp</string>
+    <string name="label_usuario">Correo Electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_start_session">Iniciar Sesión</string>
+    <string name="label_nuevoUser"><u>Registrar nuevo usuario</u></string>
+    <string name="label_olvide_password">Olvidé mi contraseña ?</string>
+    <string name="label_bienvenida">Identifíquese para iniciar sesión</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rafael Brito</string>
+    <string name="nav_header_subtitle">rbrito@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="descripcion_platillo">Hamburguesa muy rica</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Mis órdenes</string>
+    <string name="menu_slideshow">Configuración</string>
+    <string name="add_shop">Añadir</string>
+    <string name="comprar_p">Ordenar</string>
+    <string-array name="tipoDoc">
+        <item>CÉDULA</item>
+        <item>RUC</item>
+        <item>PASAPORTE</item>
+    </string-array>
+    <string-array name="ciudades">
+        <item>Ambato</item>
+        <item>Quito</item>
+        <item>Riobamba</item>
+        <item>Latacunga</item>
+        <item>Alamor</item>
+        <item>Alausí</item>
+        <item>Alfredo Baquerizo Moreno</item>
+        <item>Amaluza</item>
+        <item>Arajuno</item>
+        <item>Archidona</item>
+        <item>Arenillas</item>
+        <item>Atacames</item>
+        <item>Atuntaqui</item>
+        <item>Azogues</item>
+        <item>Baba</item>
+        <item>Babahoyo</item>
+        <item>Baeza</item>
+        <item>Bahía de Caráquez</item>
+        <item>Balao</item>
+        <item>Balsas</item>
+        <item>Balzar</item>
+        <item>Baños de Agua Santa</item>
+        <item>Biblián</item>
+        <item>Bolívar</item>
+        <item>Buena Fe</item>
+        <item>Calceta</item>
+        <item>Caluma</item>
+        <item>Camilo Ponce Enríquez</item>
+        <item>Canton Guano</item>
+        <item>Cañar</item>
+        <item>Cariamanga</item>
+        <item>Carlos Julio Arosemena Tola</item>
+        <item>Catacocha</item>
+        <item>Catamayo</item>
+        <item>Catarama</item>
+        <item>Cayambe</item>
+        <item>Celica</item>
+        <item>Cevallos</item>
+        <item>Chaguarpamba</item>
+        <item>Chambo</item>
+        <item>Chilla</item>
+        <item>Chillanes</item>
+        <item>Chimbo</item>
+        <item>Chone</item>
+        <item>Chordeleg</item>
+        <item>Chunchi</item>
+        <item>Cnel. Marcelino Maridueña</item>
+        <item>Colimes</item>
+        <item>Cotacachi</item>
+        <item>Cuenca</item>
+        <item>Cumandá</item>
+        <item>Caule</item>
+        <item>Céleg</item>
+        <item>Curán</item>
+        <item>Echeandía</item>
+        <item>El Ángel</item>
+        <item>El Carmen</item>
+        <item>El Chaco</item>
+        <item>El Corazón</item>
+        <item>El Dorado de Cascales</item>
+        <item>El Guabo</item>
+        <item>El Pan</item>
+        <item>El Pangui</item>
+        <item>El Tambo</item>
+        <item>El Triunfo</item>
+        <item>Esmeraldas</item>
+        <item>Flavio Alfaro</item>
+        <item>General Villamil</item>
+        <item>Girón</item>
+        <item>Gonzanamá</item>
+        <item>Gral. Antonio Elizalde (Bucay)</item>
+        <item>Gral. Leonidas Plaza Gutiérrez (Limón)</item>
+        <item>Guachapala</item>
+        <item>Gualaceo</item>
+        <item>Gualaquiza</item>
+        <item>Guamote</item>
+        <item>Guaranda</item>
+        <item>Guayaquil</item>
+        <item>Guayzimi</item>
+        <item>Huaca</item>
+        <item>Huamboya</item>
+        <item>Huaquillas</item>
+        <item>Ibarra</item>
+        <item>Isidro Ayora</item>
+        <item>Jama</item>
+        <item>Jaramijó</item>
+        <item>Jipijapa</item>
+        <item>Junín</item>
+        <item>La Bonita</item>
+        <item>La Concordia</item>
+        <item>La Joya de los Sachas</item>
+        <item>La Libertad</item>
+        <item>La Maná</item>
+        <item>La Troncal</item>
+        <item>La Victoria</item>
+        <item>Las Naves</item>
+        <item>Logroño</item>
+        <item>Loja</item>
+        <item>Lomas de Sargentillo</item>
+        <item>Loreto</item>
+        <item>Lumbaqui</item>
+        <item>Macará</item>
+        <item>Macas</item>
+        <item>Machachi</item>
+        <item>Machala</item>
+        <item>Manta</item>
+        <item>Marcabelí</item>
+        <item>Mera</item>
+        <item>Milagro</item>
+        <item>Mira</item>
+        <item>Mocache</item>
+        <item>Mocha</item>
+        <item>Montalvo</item>
+        <item>Montecristi</item>
+        <item>Muisne</item>
+        <item>Nabón</item>
+        <item>Naranjal</item>
+        <item>Naranjito</item>
+        <item>Nobol</item>
+        <item>Nueva Loja</item>
+        <item>Olmedo</item>
+        <item>Olmedo</item>
+        <item>Oña</item>
+        <item>Otavalo</item>
+        <item>Pablo Sexto</item>
+        <item>Paccha</item>
+        <item>Paján</item>
+        <item>Palanda</item>
+        <item>Palenque</item>
+        <item>Palestina</item>
+        <item>Pallatanga</item>
+        <item>Palora</item>
+        <item>Paquisha</item>
+        <item>Pasaje</item>
+        <item>Patate</item>
+        <item>Paute</item>
+        <item>Pedernales</item>
+        <item>Pedro Carbo</item>
+        <item>Pedro Vicente Maldonado</item>
+        <item>Pelileo</item>
+        <item>Penipe</item>
+        <item>Pichincha</item>
+        <item>Píllaro</item>
+        <item>Pimampiro</item>
+        <item>Pindal</item>
+        <item>Piñas</item>
+        <item>Portovelo</item>
+        <item>Portoviejo</item>
+        <item>Pucará</item>
+        <item>Puebloviejo</item>
+        <item>Puerto Ayora</item>
+        <item>Puerto Baquerizo Moreno</item>
+        <item>Puerto El Carmen de Putumayo</item>
+        <item>Puerto Francisco de Orellana</item>
+        <item>Puerto López</item>
+        <item>Puerto Quito</item>
+        <item>Puerto Villamil</item>
+        <item>Pujilí</item>
+        <item>Puyo</item>
+        <item>Quero</item>
+        <item>Quevedo</item>
+        <item>Quilanga</item>
+        <item>Quinsaloma</item>
+        <item>Rioverde</item>
+        <item>Rocafuerte</item>
+        <item>Rosa Zárate</item>
+        <item>Salinas</item>
+        <item>Salitre</item>
+        <item>Samborondón</item>
+        <item>San Fernando</item>
+        <item>San Gabriel</item>
+        <item>San Juan Bosco</item>
+        <item>San Lorenzo</item>
+        <item>San Miguel</item>
+        <item>San Miguel de Los Bancos</item>
+        <item>San Miguel de Salcedo</item>
+        <item>San Vicente</item>
+        <item>Sangolquí</item>
+        <item>Santa Ana</item>
+        <item>Santa Clara</item>
+        <item>Santa Elena</item>
+        <item>Santa Isabel</item>
+        <item>Santa Lucía</item>
+        <item>Santa Rosa</item>
+        <item>Santiago</item>
+        <item>Santiago de Méndez</item>
+        <item>Santo Domingo</item>
+        <item>Saquisilí</item>
+        <item>Saraguro</item>
+        <item>Sevilla de Oro</item>
+        <item>Shushufindi</item>
+        <item>Sigchos</item>
+        <item>Sígsig</item>
+        <item>Simón Bolívar</item>
+        <item>Sozoranga</item>
+        <item>Sucre</item>
+        <item>Sucúa</item>
+        <item>Suscal</item>
+        <item>Tabacundo</item>
+        <item>Taisha</item>
+        <item>Tarapoa</item>
+        <item>Tena</item>
+        <item>Tiputini</item>
+        <item>Tisaleo</item>
+        <item>Tosagua</item>
+        <item>Tulcán</item>
+        <item>Urcuquí</item>
+        <item>Valdez (Limones)</item>
+        <item>Valencia</item>
+        <item>Velasco Ibarra</item>
+        <item>Ventanas</item>
+        <item>Villa La Unión (Cajabamba)</item>
+        <item>Vinces</item>
+        <item>Yacuambi</item>
+        <item>Yaguachi</item>
+        <item>Yantzaza</item>
+        <item>Zamora</item>
+        <item>Zapotillo</item>
+        <item>Zaruma</item>
+        <item>Zumba</item>
+        <item>Zumbi</item>
+
+    </string-array>
+    <string-array name="parroquias">
+        <item>Ambatillo</item>
+        <item>Atahualpa</item>
+        <item>Atocha - Ficoa</item>
+        <item>Augusto Martínez</item>
+        <item>Celiano Monge</item>
+        <item>Constantino Fernández</item>
+        <item>Cunchibamba</item>
+        <item>Huachi Chico</item>
+        <item>Huachi Grande</item>
+        <item>Huachi Loreto</item>
+        <item>Izamba</item>
+        <item>Juan B. Vela</item>
+        <item>La Matriz</item>
+        <item>La Merced</item>
+        <item>La Península</item>
+        <item>Montalvo</item>
+        <item>Pasa</item>
+        <item>Picaihua</item>
+        <item>Pilahuín</item>
+        <item>Pishilata</item>
+        <item>Quisapincha</item>
+        <item>San Bartolomé de Pinllo</item>
+        <item>San Fernando</item>
+        <item>San Francisco</item>
+        <item>Santa Rosa</item>
+        <item>Totoras</item>
+        <item>Unamuncho</item>
+    </string-array>
+    <string-array name="provincias">
+        <item>Azuay</item>
+        <item>Bolívar</item>
+        <item>Cañar</item>
+        <item>Carchi</item>
+        <item>Chimborazo</item>
+        <item>Cotopaxi</item>
+        <item>El Oro</item>
+        <item>Esmeraldas</item>
+        <item>Galápagos</item>
+        <item>Guayas</item>
+        <item>Imbabura</item>
+        <item>Loja</item>
+        <item>Los Ríos</item>
+        <item>Manabí</item>
+        <item>Morona-Santiago</item>
+        <item>Napo</item>
+        <item>Orellana</item>
+        <item>Pastaza</item>
+        <item>Pichincha</item>
+        <item>Santa Elena</item>
+        <item>Santo Domingo de los Tsáchilas</item>
+        <item>Sucumbíos</item>
+        <item>Tungurahua</item>
+        <item>Zamora-Chinchipe</item>
+    </string-array>
+    <string name="title_activity_incio">IncioActivity</string>
+</resources>
