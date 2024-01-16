@@ -10,7 +10,8 @@ Welcome to our Restaurant Mobile App repository! This Android application is des
 - **Order Food:** Select and order your favorite dishes right from your phone.
 - **Order History:** Keep track of your past orders for quick and easy reordering.
 <img src="https://github.com/RafaBrito008/App_Restaurant/assets/94416107/e41fc8a1-9501-4246-b725-88a9e223a06f" width="300">
-
+<img src="https://github.com/RafaBrito008/App_Restaurant/assets/94416107/c02a7277-4d80-4aee-9f9a-3f924fb186dc" width="300">
+<img src="https://github.com/RafaBrito008/App_Restaurant/assets/94416107/59ce0e2b-07aa-4b3c-a302-74daf66e388d" width="300">
 
 ## Technical Stack
 
